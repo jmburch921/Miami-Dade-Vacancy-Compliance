@@ -43,4 +43,4 @@ Admin Panel (CRUD for Models and Users, User Groups, User Permissions)
 
 File Upload Handling
 
-CSV, XLSX Data Parsing and SQL Import
+CSV, XLSX Data Parsing and SQL Import (Via User Upload in WebApp, or via Linux Console Script)
