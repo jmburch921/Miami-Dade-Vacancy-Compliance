@@ -8,6 +8,7 @@ The purpose of this repo is to let recruiters and potential future employers kno
 If you would like to set up a meeting, I would be more than happy to display source code IN-PERSON (no video conferencing) or during an ON-SITE job interview.
 
 # Technologies Used
+
 __Frontend__
 
 HTML, CSS, JavaScript
@@ -17,6 +18,7 @@ Microsoft Power BI Embedded
 BootStrap
 
 JQuery
+
 
 __Backend__
 
