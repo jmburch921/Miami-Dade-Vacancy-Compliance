@@ -9,6 +9,7 @@ If you would like to set up a meeting, I would be more than happy to display sou
 
 # Tools Used
 __Frontend__
+
 HTML, CSS, JavaScript
 
 Power BI
@@ -16,8 +17,6 @@ Power BI
 Bootstrap
 
 JQuery
-
-
 __Backend__
 Python
 
@@ -28,8 +27,6 @@ XLRD
 PyMySQL
 
 OAuth2
-
-
 # Features
 Django REST API
 
