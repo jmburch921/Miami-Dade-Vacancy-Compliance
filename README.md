@@ -50,6 +50,6 @@ Social Media Integration (Facebook,Google,Instagram,LinkedIn)
 
 Admin Panel (CRUD for Models and Users, User Groups, User Permissions)
 
-File Upload Handling
+Frontend User File Upload Handling
 
 CSV, XLSX Data Parsing and SQL Import (Via User Upload in WebApp, or via Linux Console Script)
