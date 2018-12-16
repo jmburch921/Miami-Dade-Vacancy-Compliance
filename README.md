@@ -22,9 +22,11 @@ JQuery
 
 ## __Backend__
 
-Python
+Python 3.7
 
-Django REST Framework
+Django 2.1
+
+Django REST Framework 3.7
 
 XLRD
 
