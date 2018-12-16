@@ -28,9 +28,9 @@ XLRD
 
 PyMySQL
 
-MySQL
+MySQL (Production)
 
-SQLite
+SQLite (Development)
 
 OAuth2
 # Features
