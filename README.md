@@ -17,6 +17,7 @@ Power BI
 Bootstrap
 
 JQuery
+
 __Backend__
 Python
 
