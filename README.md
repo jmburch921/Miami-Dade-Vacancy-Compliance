@@ -9,7 +9,7 @@ If you would like to set up a meeting, I would be more than happy to display sou
 
 # Technologies Used
 
-__Frontend__
+## __Frontend__
 
 HTML, CSS, JavaScript
 
