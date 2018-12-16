@@ -28,6 +28,10 @@ XLRD
 
 PyMySQL
 
+MySQL
+
+SQLite
+
 OAuth2
 # Features
 Django REST API complete with Filtering and JSON Serialization
