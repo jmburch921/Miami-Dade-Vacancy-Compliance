@@ -5,7 +5,7 @@ Unfortunately, I cannot post the source code to GitHub
 
 The purpose of this repo is to let recruiters and potential future employers know that I am working on this project.
 
-If you would like to set up a meeting, I would be more than happy to provide source code for an interview.
+If you would like to set up a meeting, I would be more than happy to display source code IN-PERSON (no video conferencing) for an ON-SITE interview.
 
 # Tools Used
 __Frontend__
